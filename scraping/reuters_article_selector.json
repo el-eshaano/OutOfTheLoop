@@ -1,0 +1,7 @@
+{
+    "title": "h1[data-testid=\"Heading\"]::text",
+    "date": "time > span:nth-child(1)::text",
+    "time": "time > span:nth-child(2)::text",
+    "author": "a[data-testid=\"Link\"][rel=\"author\"]::text",
+    "paragraphs": "p[data-testid*=\"paragraph-\"]::text"
+}
